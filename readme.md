@@ -79,12 +79,7 @@ This section will be updated weekly with progress details and corresponding Jupy
 - **Activities:**  
   - Imported the necessary libraries and frameworks.
   - Set up the project environment.  
-  - Explored the dataset structure.  
-  - Note: If the file takes too long to load, you can view the Kaggle notebook directly [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification).  
-
-- **Notebooks:**  
-  - [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
-  - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
+  - Explored the dataset structure.   
 
 ### Week 2: TBD  
 *Details to be added after completion.*  
