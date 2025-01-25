@@ -15,11 +15,9 @@ This project involves developing a Convolutional Neural Network (CNN) model to c
 - [Model Architecture](#model-architecture)  
 - [Training](#training)  
 - [Weekly Progress](#weekly-progress)  
-- [How to Run](#how-to-run)  
 - [Technologies Used](#technologies-used)  
 - [Future Scope](#future-scope)  
 - [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
