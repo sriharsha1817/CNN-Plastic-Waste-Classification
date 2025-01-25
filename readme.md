@@ -4,9 +4,6 @@
 <h3 align="center">Enthusiastic AIML Student | Open Source Contributor</h3>
 
 ---
-
-<img src="https://github.com/Hardik-Sankhla/Hardik-Sankhla/blob/gh-pages/Images/HardikSankhlaLinkedinProfileBackground.png" alt="AI ML DS DL Banner" style="width:100%;">
-
 ## Overview  
 This project involves developing a Convolutional Neural Network (CNN) model to classify images of plastic waste into distinct categories. The primary objective is to optimize waste management systems by enhancing the segregation and recycling processes through the use of deep learning techniques. 
 
