@@ -86,22 +86,6 @@ This section will be updated weekly with progress details and corresponding Jupy
 
 ### Week 3: TBD  
 *Details to be added after completion.*  
-
-## How to Run  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/Hardik-Sankhla/CNN-Plastic-Waste-Classification  
-   cd CNN-Plastic-Waste-Classification
-
-## Install the required dependencies:
-pip install -r requirements.txt  
-
-## Run the training script:
-python train.py  
-
-## Predict using the model:
-python predict.py --image_path /path/to/image.jpg  
-
 ## Technologies Used
 - Python
 - TensorFlow/Keras
@@ -117,9 +101,6 @@ python predict.py --image_path /path/to/image.jpg
 
 ## Contributing
 Contributions are welcome! Feel free to submit an issue or pull request if you'd like to contribute.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
